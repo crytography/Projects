@@ -5,7 +5,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-int depu(vector<int>&num)
+int depu(vector<int>&num)//×ÐÏ¸Ë¼¿¼
 {	
 	int index = 0;
 	for (int i = 1; i < num.size(); i++)
